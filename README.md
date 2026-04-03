@@ -34,4 +34,5 @@ Elasticidade de Atração: O investimento cresceu 144,44%, enquanto o volume de 
 Execute o script case_contabilizei.sql para gerar as tabelas de variação e KPIs.
 Compare os resultados com as abas de "pergunta 1 a 5" no Excel para validação final .
 
-Gustavo Della  Estudante de Engenharia de Computação - FIAPInfraestrutura & Data Analysis
+Gustavo Della Rocca  
+Estudante de Engenharia de Computação - FIAPInfraestrutura & Data Analysis
