@@ -1,4 +1,5 @@
-🚀 Case Contabilizei: Business Intelligence & Data EngineeringEste repositório contém a solução técnica para o case de planejamento estratégico da Contabilizei. 
+🚀 Case Contabilizei: Business Intelligence & Data Engineering
+Este repositório contém a solução técnica para o case de planejamento estratégico da Contabilizei. 
 
 O projeto foca na transformação de dados brutos de mercado e performance interna em insights acionáveis, utilizando SQL para o processamento lógico e Excel para modelagem estatística.
 
